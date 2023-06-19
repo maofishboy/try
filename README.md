@@ -6,7 +6,7 @@ yolov7 with pyqt implement in pytorch.
 视频教学地址: https://www.bilibili.com/video/BV1BP4y1X7ae/?vd_source=c8452371e7ca510979593165c8d7ac27  
 博客地址: https://blog.csdn.net/qq_37706472
 
-### untitled.ui -> pyqt5 ui文件  
+### untitled.ui -> pyqt5 ui文件1  
 ### gui.py -> 由untitled.ui转换出来的py文件
 ### run_gui.py -> 运行gui主程序
 ### main.py -> 调试程序
